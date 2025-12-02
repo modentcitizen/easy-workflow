@@ -1,4 +1,4 @@
-module github.com/Bunny3th/easy-workflow
+module github.com/modentcitizen/easy-workflow
 
 go 1.19
 
